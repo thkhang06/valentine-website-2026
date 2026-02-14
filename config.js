@@ -34,23 +34,23 @@ const CONFIG = {
         },
         third: {
             text: "Gáu có là Valentine của anh vào 14 tháng 2, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            yesBtn: "Cóaaaaa!",                                             // Text for "Yes" button
+            noBtn: "honggg"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "ASasaaa gáu iu anh nhìu dị hỏ?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "Mãi mãi và hơn nữaaa! 🚀💝",              // Shows when they go past 1000%
+        normal: "và hơn nữaaaa! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yay! Anh là ngừi may mắn nhất quả đấttt! 🎉💝💖💝💓",
+        message: "Gáu tới lấy quà và ôm hun anh cái nà!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
